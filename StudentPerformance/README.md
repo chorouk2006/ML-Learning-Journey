@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # ML-Learning-Journey
 A collection of beginner-friendly machine learning projects as part of my learning journey. Implemented using Jupyter Notebooks &amp; TuriCreate.
 =======
@@ -22,4 +21,3 @@ Predict students' exam scores based on study habits and lifestyle factors.
 
 ## 📖 Notes
 This is part of my ML-Learning-Journey repo. The goal is to practice regression and understand feature impact.
->>>>>>> 1a3aa84 (Initial commit - first ML project)
