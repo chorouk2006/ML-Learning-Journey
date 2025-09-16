@@ -4,11 +4,11 @@ A collection of beginner-friendly machine learning projects as part of my learni
 # Regression Project - Predicting Student Performance
 
 ## 📌 Goal
-Predict students' exam scores based on study habits and lifestyle factors.
+Predict students exam scores based on study habits and lifestyle factors.
 
 ## 📊 Dataset
 - Source: UCI Student Performance Dataset
-- Features: study hours, failures, family support, etc.
+- Features: study hours, G1, G2.
 - Target: final grade (G3)
 
 ## 🛠️ Method
